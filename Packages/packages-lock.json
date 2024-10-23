@@ -1,10 +1,26 @@
 {
   "dependencies": {
+    "com.cysharp.zstring": {
+      "version": "2.6.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.radish.core": {
       "version": "file:com.radish.core",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
+    },
+    "com.radish.localization": {
+      "version": "file:com.radish.localization",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.radish.core": "1.0.0",
+        "com.cysharp.zstring": "2.6.0"
+      }
     },
     "com.sisus.hierarchy-folders": {
       "version": "file:com.sisus.hierarchy-folders",

@@ -1,3 +1,6 @@
 [submodule "Packages/com.radish.core"]
 	path = Packages/com.radish.core
 	url = https://github.com/Valax321/Radish.Core.git
+[submodule "Packages/com.radish.localization"]
+	path = Packages/com.radish.localization
+	url = https://github.com/Valax321/Radish.Localization.git
