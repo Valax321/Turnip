@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.radish.core": {
+      "version": "file:com.radish.core",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.sisus.hierarchy-folders": {
       "version": "file:com.sisus.hierarchy-folders",
       "depth": 0,
