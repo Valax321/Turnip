@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e26fb0a863ad0874fbecbbba322b5574
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157716
+  packageName: Hierarchy Folders
+  packageVersion: 1.2.8
+  assetPath: Packages/com.sisus.hierarchy-folders/Scripts/Editor/GameObjectInspector.cs
+  uploadId: 676705
