@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": {
+      "version": "2.5.10",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.cysharp.zstring": {
       "version": "2.6.0",
       "depth": 0,
@@ -250,6 +257,13 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "jp.hadashikick.vcontainer": {
+      "version": "https://github.com/Valax321/VContainer.git?path=VContainer/Assets/VContainer",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2e41fb475d9fcc5099d046214e1cfd38249407c8"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
