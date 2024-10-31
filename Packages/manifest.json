@@ -43,7 +43,8 @@
     "com.unity.modules.xr": "1.0.0",
     "com.cysharp.zstring": "2.6.0",
     "com.cysharp.unitask": "2.5.10",
-    "jp.hadashikick.vcontainer": "https://github.com/Valax321/VContainer.git?path=VContainer/Assets/VContainer"
+    "jp.hadashikick.vcontainer": "https://github.com/Valax321/VContainer.git?path=VContainer/Assets/VContainer",
+    "com.jasonma.lwgui": "2.0.0"
   },
   "scopedRegistries": [
     {
@@ -51,7 +52,8 @@
       "url": "https://package.openupm.com",
       "scopes": [
         "com.cysharp.unitask",
-        "com.cysharp.zstring"
+        "com.cysharp.zstring",
+        "com.jasonma.lwgui"
       ]
     }
   ]
